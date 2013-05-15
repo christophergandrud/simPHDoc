@@ -83,7 +83,7 @@ Results from Cox PH models, and indeed many other methods, are often conveyed us
 
 \subsection{Calculating Quantities of Interest}
 
-First let's look at the types of quantities of interest researchers are often interested in estimating from Cox Proportional Hazards models \citep{Cox1972}. A basic Cox PH model is given by:
+First let's look at the types of quantities of interest researchers are often interested in estimating from Cox Proportional Hazards models \citep{cox1972}. A basic Cox PH model is given by:
 %
 \begin{equation}
     h(t|\mathbf{X}_{i}) = h_{0}(t)\mathrm{e}^{(\mathbf{\beta X}_{i})}.
