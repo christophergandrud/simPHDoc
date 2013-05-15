@@ -10,7 +10,7 @@
 
 #### Convert knitted PDF file to html with pandoc ####
 cd /git_repositories/simPHDoc/HTML
-pandoc simPH_vignette.tex -0 simPHDoc.html --bibliography HRBibliography.bib --bibliography HRPackages.bib
+pandoc simPH_vignette.tex -o simPHDoc.html --bibliography HRBibliography.bib --bibliography HRPackages.bib
 
 #### Move files to the gh-pages branch of simPH ####
 cd /git_repositories/simPH
