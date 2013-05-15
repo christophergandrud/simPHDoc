@@ -33,4 +33,7 @@ mv -i /git_repositories/simPHDoc/HTML/fullDoc.html /git_repositories/simPH
 cp -ir /git_repositories/simPHDoc/PDF/figure /git_repositories/simPH
 
 
+
+
 ######## Some manual clean up required ###############
+
